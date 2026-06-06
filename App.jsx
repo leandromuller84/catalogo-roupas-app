@@ -146,7 +146,8 @@ function App() {
       <footer className="bg-black text-white py-3 mt-auto w-full">
         <div className="text-center">
           <p className="text-sm opacity-80">
-            Desenvolvido por <span className="font-bold">@Leandro</span> © 2026
+            Desenvolvido por <span className="font-bold">@Leandro Müller</span>{" "}
+            © 2026
           </p>
         </div>
       </footer>
