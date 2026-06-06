@@ -107,7 +107,7 @@ function App() {
                   <>
                     <div className="bg-white py-8 text-center shadow-sm w-full">
                       <h1 className="text-5xl md:text-7xl font-bold text-gray-900 tracking-tight">
-                        FashionStore
+                        FashionStore - @
                       </h1>
                       <p className="text-xl text-gray-600 mt-2 font-medium">
                         O melhor da moda 2026
